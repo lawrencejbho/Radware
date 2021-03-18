@@ -1,5 +1,9 @@
 # Radware-WAF
 
+Cloud_WAF.py
+- runs the same API calls in python3 and parses the html or json for subsequent calls
+
+
 Radware Cloud WAF Postman Collection and Environment
 - for POSTMAN
 - scripts can be run for api user access to Cloud WAF
