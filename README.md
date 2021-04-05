@@ -7,3 +7,4 @@ Python Script for Cloud WAF API user
 
 v2 
 - added multiple certificate + key upload
+- broke out the script into modules
