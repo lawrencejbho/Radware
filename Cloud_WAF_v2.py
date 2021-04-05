@@ -12,7 +12,7 @@ h.get_tenantid(sessionidentifier)
 
 #Use this to see the fingerprints of your certificates
 
-#h.get_certificates(sessionidentifier)
+h.get_certificates(sessionidentifier)
 
 #Uploads the certificate, also outputs the fingerprint which you will need later if deleting a certificate
 
