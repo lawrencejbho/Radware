@@ -1,6 +1,7 @@
 # Radware-WAF
 
 Python Script for Cloud WAF API user 
+- pull main, global-config, and helper
 - runs the same API calls in python3 and parses the html or json for subsequent calls
 
 
