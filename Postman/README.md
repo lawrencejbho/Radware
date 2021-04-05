@@ -7,7 +7,7 @@ Radware Cloud WAF Postman Collection and Environment
 Instructions:
         
 1 – download Postman https://www.postman.com/downloads/ and install\
-2 – download the collection and environment files in the Postman folder\
+2 – download the collection and environment json files in the Postman folder\
 3 – import the collection and environment into Postman\
 4 – make sure you have an API user on Cloud WAF\
 5 – in Postman, load up your credentials (username/password) into the environment variables, also set your environment as Radware Cloud WAF\
